@@ -1,5 +1,5 @@
 _repo: The-Life-of-Cardinal-Wolsey_54043
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Wyatt, George
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1624
     gutenberg_agent_id: '47669'
     url: http://www.gutenberg.org/2009/agents/47669
+covers:
+- cover_type: archival
+  image_path: 54043-h/images/cover.jpg
 creator:
   author:
     agent_name: Cavendish, George
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '8977'
     url: http://www.gutenberg.org/2009/agents/8977
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54043#The-Life-of-Cardinal-Wolsey
 gutenberg_issued: '2017-01-23'
 gutenberg_type: Text
 identifiers:
