@@ -1,0 +1,45 @@
+_repo: The-Life-of-Cardinal-Wolsey_54043
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Wyatt, George
+    alias: Wyat, George
+    birthdate: 1554
+    deathdate: 1624
+    gutenberg_agent_id: '47669'
+    url: http://www.gutenberg.org/2009/agents/47669
+creator:
+  author:
+    agent_name: Cavendish, George
+    birthdate: 1500
+    gutenberg_agent_id: '47674'
+    url: http://www.gutenberg.org/2009/agents/47674
+  editor:
+    agent_name: Singer, Samuel Weller
+    alias: Singer, S. W. (Samuel Weller)
+    birthdate: 1783
+    deathdate: 1858
+    gutenberg_agent_id: '8977'
+    url: http://www.gutenberg.org/2009/agents/8977
+description: ''
+gutenberg_issued: '2017-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54043'
+  lccn: a12000286
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Statesmen -- Great Britain -- Biography'
+- !lcsh 'Great Britain -- Church history -- 16th century'
+- !lcsh 'Cardinals -- England -- Biography'
+- !lcsh 'Wolsey, Thomas, 1475?-1530'
+- !lcsh 'Anne Boleyn, Queen, consort of Henry VIII, King of England, 1507-1536'
+- !lcsh 'Great Britain -- Politics and government -- 1509-1547'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Henry VIII, 1509-1547 -- Biography'
+- GITenberg
+title: The Life of Cardinal Wolsey
+url: http://www.gutenberg.org/ebooks/54043
